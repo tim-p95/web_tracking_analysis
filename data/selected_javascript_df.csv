@@ -1,0 +1,11 @@
+visit_id,script_url,symbol,operation,value,arguments,top_level_url
+120,http://parwise.de/,window.screen.colorDepth,get,24,,http://parwise.de/
+130,http://piwik.bpb.de/piwik.js,window.navigator.userAgent,get,Mozilla/5.0 (X11; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0,,http://www.bpb.de/
+130,http://piwik.bpb.de/piwik.js,window.navigator.cookieEnabled,get,true,,http://www.bpb.de/
+162,https://www.ran.de/,window.localStorage,get,{},,https://www.ran.de/
+179,https://www.tfp.is/,CanvasRenderingContext2D.font,set,600 32px Arial,,https://www.tfp.is/
+8191,http://kaplun.de/,CanvasRenderingContext2D.getImageData,call,,"[16,16,1,1]",http://kaplun.de/
+179,https://www.tfp.is/,HTMLCanvasElement.getContext,call,,"[""2d""]",https://www.tfp.is/
+345,https://meedia.de/,window.Storage.setItem,call,,"[""adbErrors"",""""]",https://meedia.de/
+775,https://disney.de/,CanvasRenderingContext2D.getImageData,call,,"[0,20,1,1]",https://disney.de/
+775,https://disney.de/,CanvasRenderingContext2D.getImageData,call,,"[0,23,1,1]",https://disney.de/
